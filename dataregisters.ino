@@ -4,7 +4,7 @@
 // All three bytes of the data register are read sequentially 
 // by using the address pointer auto-increment feature.
 
-// 2021-01-29 by Mattia Devangelio <mattdev6@gmail.com>
+// 2020-08-10 by Mattia Devangelio <mattdev6@gmail.com>
 
 void dataRegisters()
 {
