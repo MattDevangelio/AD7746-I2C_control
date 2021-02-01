@@ -8,6 +8,7 @@
 #define RESET_ADDRESS 0xBF
 #define N_REG 19
 
+// AD7746 Registers List
 #define STATUS_REG 0x00
 #define CAP_DATA_REG 0x01
 #define VT_DATA_REG 0x04
