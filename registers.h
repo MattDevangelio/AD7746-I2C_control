@@ -23,8 +23,8 @@
 
 #define caprange 4.096 //Picofarads
 #define vtrange 3.3 //Volts
-//voltage range is set according to the voltage reference: REFIN(+)=3.3 V, REFIN(-)=0 V 
-//set 1.17 V if the internal reference is used (ref input pins left as an open circuit or connected to GND)
+// The voltage range is set according to the voltage reference: REFIN(+)=3.3 V, REFIN(-)=0 V 
+// set 1.17 V if the internal reference is used (ref input pins left as an open circuit or connected to GND)
 
 void setRegister(int r, int val);
 float readRegister(int r);
