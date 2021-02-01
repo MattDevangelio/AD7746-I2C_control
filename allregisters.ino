@@ -2,7 +2,7 @@
 // This reads by I2C communication protocol (Wire.h Library) 19 device's registers, according to AD7746 Datasheet
 // (Copyright (c) Analog Devices), storing the relative content into a data array, and then printing it.
  
-// 2021-01-29 by Mattia Devangelio <mattdev6@gmail.com>
+// 2020-08-10 by Mattia Devangelio <mattdev6@gmail.com>
 
 void allRegisters()
 {
