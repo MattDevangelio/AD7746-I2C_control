@@ -7,7 +7,4 @@
 - [AD7745/AD7746 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf)
 
 ## ref
-
-<!-- <a href="https://raw.githubusercontent.com/MattDevangelio/AD7746-I2C_control/main/support_document.pdf" target="_blank">PP.</a>
-
-<a href="AD7746-I2C_control/support_document.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://MattDevangelio.github.io/support_document.pdf" target="_blank">Support Document.</a>
