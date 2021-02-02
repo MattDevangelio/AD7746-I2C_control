@@ -5,7 +5,3 @@
 ### References
 - <a href="https://MattDevangelio.github.io/support_document.pdf" target="_blank">AD7746 Support Document</a>
 - <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf" target="_blank">AD7745/AD7746 Datasheet</a>
-
-<!--- [AD7745/AD7746 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf)
-
-
