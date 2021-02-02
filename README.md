@@ -8,4 +8,4 @@
 
 ## ref
 
-<a href="https://raw.githubusercontent.com/MattDevangelio/AD7746-I2C_control/" target="_blank">PP.</a>
+<a href="https://raw.githubusercontent.com/MattDevangelio/AD7746-I2C_control/main/" target="_blank">PP.</a>
