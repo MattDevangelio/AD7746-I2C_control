@@ -9,4 +9,4 @@
 ## ref
 <!-- <a href="https://github.com/MattDevangelio/AD7746-I2C_control/index.html" target="_blank">PD.</a> >
 
-<embed src="https://MattDevangelio.github.io/support_document.pdf" type="application/pdf" />
+<embed src="https://MattDevangelio.github.io/support_document.pdf" type="application/pdf" target="_blank">P.</a>/>
