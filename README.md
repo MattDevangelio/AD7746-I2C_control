@@ -3,8 +3,9 @@
 <a href="https://ibb.co/rvvXb4B"><img src="https://i.ibb.co/g66cvz0/AD7746-diagram.png" alt="AD7746-diagram" border="0"></a>
 
 ### References
-- [AD7746 Support Document](https://www.dropbox.com/s/0fx0g5lrc8xli53/Support_document.pdf?dl=0)
-- [AD7745/AD7746 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf)
-
-## ref
 - <a href="https://MattDevangelio.github.io/support_document.pdf" target="_blank">AD7746 Support Document</a>
+- <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf" target="_blank">AD7745/AD7746 Datasheet</a>
+
+<!--- [AD7745/AD7746 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf)
+
+
