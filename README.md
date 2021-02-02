@@ -11,4 +11,4 @@
 <a href="https://raw.githubusercontent.com/MattDevangelio/AD7746-I2C_control/main/support_document.pdf" target="_blank">PP.</a>
 
 
-- [oo](https://github.com/MattDevangelio/AD7746-I2C_control/main/support_document.pdf)
+- [oo](https://github.com/MattDevangelio/AD7746-I2C_control/support_document.pdf)
