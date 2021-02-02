@@ -6,4 +6,4 @@
 - <a href="https://MattDevangelio.github.io/files/documents/AD7746/support_document.pdf" target="_blank">AD7746 Support Document</a>
 - <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf" target="_blank">AD7745/AD7746 Datasheet</a>
 
-<a href="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png"><img src="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png" alt="AD7746-diagram" border="0" width="10%" height="850px"></a>
+<a href="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png"><img src="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png" alt="AD7746-diagram" border="0" width="10%" height="10%"></a>
