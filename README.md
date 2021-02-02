@@ -8,5 +8,5 @@
 
 ## ref
 
-<a href="MattDevangelio.github.io/AD7746-I2C_control/files/Support_document.pdf" target="_blank">PDF.</a>
+<a href="github.com/MattDevangelio/AD7746-I2C_control/blob/main/files/Support_document.pdf" target="_blank">PDF.</a>
 
