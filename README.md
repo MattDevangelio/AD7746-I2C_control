@@ -1,6 +1,6 @@
 ## AD7746 Control by I²C Serial Communication Protocol
 
-![AD7746-diagram](https://ibb.co/rvvXb4B)
+<a href="https://ibb.co/rvvXb4B"><img src="https://i.ibb.co/g66cvz0/AD7746-diagram.png" alt="AD7746-diagram" border="0"></a>
 
 ### References
 - [AD7746 Support Document](https://www.dropbox.com/s/0fx0g5lrc8xli53/Support_document.pdf?dl=0)
