@@ -1,4 +1,4 @@
-# AD7746 Control on I^2C Serial Communication
+## AD7746 Control by I²C Serial Communication Protocol
 
 ![AD7746-diagram](images/AD7746_diagram.png)
 
