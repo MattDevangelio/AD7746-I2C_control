@@ -2,7 +2,7 @@
  * Filename: dataregisters.ino
  * Author: Mattia Devangelio <mattdev6@gmail.com>
  * Description: Read and display on Serial Monitor the conversion results of the AD7746 Data Registers.
- * License: Copyright (c) 2020, The library is licensed under the MIT license.
+ * License: Copyright (c) 2021, The library is licensed under the MIT license.
 */
 
 // The function allows to read only the content of the device's Data Registers:
