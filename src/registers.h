@@ -1,3 +1,10 @@
+/* 
+ * Filename: registers.h
+ * Author: Mattia Devangelio <mattdev6@gmail.com>
+ * Description: Header file.
+ * License: Copyright (c) 2020, The library is licensed under the MIT license.
+*/
+
 #ifndef REGISTERS_H
 #define REGISTERS_H
 
