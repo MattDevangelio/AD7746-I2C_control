@@ -1,9 +1,9 @@
 /* 
- * Filename: allregisters.ino
- * Author: Mattia Devangelio <mattdev6@gmail.com>
- * Description: Read and display on Serial Monitor the status of the AD7746 registers.
- * License: Copyright (c) 2021, The library is licensed under the MIT license.
-*/
+ *  Filename: allregisters.ino
+ *  Author: Mattia Devangelio <mattdev6@gmail.com>
+ *  Description: Read and display on Serial Monitor the status of the AD7746 registers.
+ *  License: Copyright (c) 2021, The library is licensed under the MIT license.
+ */
 
 // The allRegisters function is implemented in order to display the real-time values of all the AD7746 registers.
 // This reads by I2C communication protocol (Wire.h Library) 19 device's registers, according to AD7746 Datasheet,
