@@ -1,9 +1,9 @@
 /* 
- * Filename: registers.cpp
- * Author: Mattia Devangelio <mattdev6@gmail.com>
- * Description: Implemented functions for Read/Write operations on the AD7746 Registers.
- * License: Copyright (c) 2021, The library is licensed under the MIT license.
-*/
+ *  Filename: registers.cpp
+ *  Author: Mattia Devangelio <mattdev6@gmail.com>
+ *  Description: Implemented functions for Read/Write operations on the AD7746 Registers.
+ *  License: Copyright (c) 2021, The library is licensed under the MIT license.
+ */
 
 #include "registers.h"
 
