@@ -1,7 +1,6 @@
 ## AD7746 Control by I²C Serial Communication Protocol
 
 <a href="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png"><img src="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png" alt="AD7746-diagram" border="0" width="80%" height="80%"></a>
-src="https://github.com/MattDevangelio/MattDevangelio.github.io/blob/c365ee5b67ba2f7ed7228356abc5c93d02838aee/files/documents/AD7746/block_diagram.png" alt="AD7746-diagram" border="0" width="80%" height="80%"></a>
 
 ### Helpful References
 
@@ -10,3 +9,8 @@ src="https://github.com/MattDevangelio/MattDevangelio.github.io/blob/c365ee5b67b
 
 
 <!--<a href="https://ibb.co/rvvXb4B"><img src="https://i.ibb.co/g66cvz0/AD7746-diagram.png" alt="AD7746-diagram" border="0"></a>>
+
+
+
+
+<a href="https://github.com/MattDevangelio/MattDevangelio.github.io/blob/main/files/documents/AD7746/block_diagram.png"><img src="https://github.com/MattDevangelio/MattDevangelio.github.io/blob/main/files/documents/AD7746/block_diagram.png" alt="AD7746-diagram" border="0" width="80%" height="80%"></a>
