@@ -2,6 +2,7 @@
 
 <a href="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png"><img src="https://MattDevangelio.github.io/files/documents/AD7746/block_diagram.png" alt="AD7746-diagram" border="0" width="80%" height="80%"></a>
 src="https://MattDevangelio.github.io/blob/main/files/documents/AD7746/block_diagram.png" alt="AD7746-diagram" border="0" width="80%" height="80%"></a>
+https://github.com/MattDevangelio/MattDevangelio.github.io/blob/c365ee5b67ba2f7ed7228356abc5c93d02838aee/files/documents/AD7746/block_diagram.png
 ### Helpful References
 
 - <a href="https://MattDevangelio.github.io/files/documents/AD7746/support_document.pdf" target="_blank">AD7746 Support Document</a>
